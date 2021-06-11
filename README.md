@@ -4,11 +4,11 @@
 ## Introduction
 This code was implemented for algorithm course project.
 Key notes:
-- this was implemented in java
-- it uses priority queue, min heap and hash map data structures.
-- the input is file or written text in GUI.
-- the output is through console or GUI (which one you prefer).
-- there is class to test random data generated in random way to analyze the time complexity.
+- This was implemented in java
+- It uses priority queue, min heap and hash map data structures.
+- The input is file or written text in GUI.
+- The output is through console or GUI (which one you prefer).
+- There is class to test random data generated in random way to analyze the time complexity.
 - GraphViz was used to visualize the output tree.
 
 ## Installation
