@@ -1,9 +1,9 @@
 # Huffman coding and decoding in Java with GUI
 
-By:
-Mohammed Almansour
-Yazeed Almusallam
-Abdulrahman Almazroa
+By: </br>
+Mohammed Almansour </br>
+Yazeed Almusallam </br>
+Abdulrahman Almazroa </br>
 
 ## Introduction
 This code was implemented for algorithm course project.
